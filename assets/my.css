@@ -1,0 +1,10 @@
+html, body, ul, ol, li, form, fieldset, legend { margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6, p { margin-top: 0; }
+
+body { width: 400px; margin-right: auto; margin-left: auto; 
+	     font-family: 'Lovers Quarrel', cursive; 
+			 font-size:1.3em;}
+h1, h2, h3, p { text-align: center; margin-top:1.3em; }
+table { width: 100%; text-align: center; }
+
+.center { display:block; margin-right:auto; margin-left: auto; }
