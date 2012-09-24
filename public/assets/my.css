@@ -1,16 +1,18 @@
-/* reset */
 html, body, h1, h2, h3, p { margin: 0; padding: 0; font-weight: normal; }
 
-/* elements */
-body { width: 500px; margin-right: auto; margin-left: auto; background-color: white; font-family: 'Lovers Quarrel', cursive; font-size:2.3em; background-color: white; text-align:center; }
+body { width: 500px; margin-right: auto; margin-left: auto; background-color: white; font-family: 'Lovers Quarrel', cursive; background-color: white; }
 
-h1 { font-size: 2.7em; margin-top: .3em; }
-h2 { font-size: 2em; margin-top: .3em; }
-p { font-size: .9em; margin: 1em 0 1em 0 }
+h1 { font-size: 97px; margin-top: 30px; text-align:center; }
+h2 { font-size: 77px; margin-top: 30px; text-align:center; }
+p { font-size: 33px; text-align:center; margin: 22px 0 33px 0; }
 
 table { width: 100%; text-align: center; }
 
 img { -webkit-box-shadow: 0 11px 7px -7px #333; -moz-box-shadow: 0 11px 7px -7px #333; box-shadow: 0 11px 7px -7px #333; }
 
-/* classes */
+a:link, a:active, a:visited { color: black; }
+a:hover { color: #C33 }
+
 .center { display:block; margin-right:auto; margin-left: auto; }
+.red { color: #C33 }
+a.script { font-size: 33px; }
