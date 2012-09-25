@@ -10,7 +10,7 @@ p { font-size: 33px; text-align:center; margin: 22px 0 0 0; }
 
 table { width: 100%; text-align: center; }
 
-img { -webkit-box-shadow: 0 11px 7px -7px #333; -moz-box-shadow: 0 11px 7px -7px #333; box-shadow: 0 11px 7px -7px #333; }
+img { box-shadow: 0 11px 7px -7px #333; }
 
 hr { border: 0; border-bottom: 1px dashed #ccc; background: #999; margin-top: 33px; }
 
